@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "gta4l-Non-KernelSU",
-      "repo": "https://github.com/YFMARCO/kernel-test2",
+      "repo": "https://github.com/YFMARCO-Dev/kernel-test2",
       "branch": "master",
       "device": "gta4l",
       "defconfig": "/gta4l_mea_jt_defconfig"
@@ -60,8 +60,8 @@
       "use": true,
       "release": true,
       "custom": {
-        "repo": "https://github.com/YFMARCO/AnyKernel3/",
-        "branch": "gta4l"
+        "repo": "https://github.com/YFMARCO-Dev/AnyKernel3/",
+        "branch": "spider-logo"
       }
     },
     "enableKernelSU": false,
