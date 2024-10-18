@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "gta4l-Non-KernelSU",
-      "repo": "https://github.com/Matrixx-Devices/android_kernel_samsung_gta4l",
-      "branch": "14.0",
+      "repo": "https://github.com/CuriousNom/kernel_samsung_gta4l.git",
+      "branch": "T505XXS8CXG1",
       "device": "gta4l",
       "defconfig": "gta4l_eur_open_defconfig"
     },
